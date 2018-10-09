@@ -1,0 +1,6 @@
+com/sms/springboot/hospitalservicesh2/model/Hospital.class
+com/sms/springboot/hospitalservicesh2/service/HospitalService.class
+com/sms/springboot/hospitalservicesh2/repository/HospitalRepository.class
+com/sms/springboot/hospitalservicesh2/service/HospitalServiceImpl.class
+com/sms/springboot/hospitalservicesh2/controller/HospitalController.class
+com/sms/springboot/hospitalservicesh2/HospitalServicesH2Application.class
